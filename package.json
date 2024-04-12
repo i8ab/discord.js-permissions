@@ -1,0 +1,30 @@
+{
+  "name": "discord.js-permissions",
+  "version": "1.0.0",
+  "description": "A Utility To Deal With Discord Permissions Easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i8ab/discord.js-permissions.git"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "discordbot",
+    "permission",
+    "permissions",
+    "discordpermission",
+    "discordpermissions",
+    "discord-permission",
+    "discord-permissions"
+  ],
+  "author": "vampire_itachi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i8ab/discord.js-permissions/issues"
+  },
+  "homepage": "https://github.com/i8ab/discord.js-permissions#readme"
+}
